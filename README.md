@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## About Me
-
 - 💻 I am a web developer
 - 🌱 I'm currently learning Python
 - 📂 You can find my projects at www.freeyat.com 
