@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 💻 I am a web developer
-- 🌱 I'm currently learning Python
+- 🌱 I'm currently learning TypeScript
 - 📂 You can find my projects at www.freeyat.com 
 - 📧 You can reach me via friatweld@gmail.com
 
