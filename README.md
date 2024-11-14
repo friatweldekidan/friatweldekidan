@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 💻 I am a frontend developer
-- 🌱 I'm currently learning Next.js
+- 🌱 I'm currently learning Database Administration
 - 📂 You can find my projects at https://friat-folio-omega.vercel.app/ 
 - 📧 You can reach me via friatweld@gmail.com
 
